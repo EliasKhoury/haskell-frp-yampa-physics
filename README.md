@@ -1,4 +1,4 @@
-A Basic example of collisions in FRP and Yampa.
+A basic example of collisions in FRP and Yampa.
 
 See https://www.youtube.com/watch?v=GOBhhtxfhi0 for a video (HQ/720p recommended).
 
