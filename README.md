@@ -1,3 +1,5 @@
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ivanperez-keera&url=https://github.com/keera-studios/haskell-frp-yampa-physics&title=FRP Physics&language=&tags=github&category=software)
+
 A basic example of collisions in FRP and Yampa.
 
 See https://www.youtube.com/watch?v=GOBhhtxfhi0 for a video (HQ/720p recommended).
